@@ -35,7 +35,7 @@ This is a 10 day instructor led and on-demand immersive fully hands-on bootcamp 
 ### Capstone Distributed Data Processing System
 As part of the training program, trainees will build an end-to-end distributed data processing solution.
 
-![Roadmap](./scala_program.png "High Level Architecture")
+![Roadmap](./scala_program.PNG "High Level Architecture")
 
 ### Software/Tools
 * [JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
