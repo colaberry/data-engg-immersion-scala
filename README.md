@@ -39,6 +39,11 @@ As part of the training program, trainees will build an end-to-end distributed d
 
 ![Roadmap](./scala_program.PNG "High Level Architecture")
 
+The following diagram indicates the realization workflow of the capstone project. Picture captured from one of the brainstorming sessions from class of Feb 2017
+
+![Roadmap](./scala_proj_arch.jpg "High Level Architecture")
+
+
 ### Software/Tools
 * [JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * [SBT](http://www.scala-sbt.org/)
